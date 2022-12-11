@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sameeriit
-- 👀 I’m interested in development 
+- 👀 I’m interested in software development 
 - 🌱 I’m currently learning blockchain.
 - 💞️ I’m looking to collaborate on blockchain web3 project 
 - 📫 How to reach me ...
